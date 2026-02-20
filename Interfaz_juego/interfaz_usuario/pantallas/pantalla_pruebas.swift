@@ -25,7 +25,7 @@ struct PantallaPruebas: View {
                     Spacer()
                     Rectangle()
                         .frame(width: 100, height: 100)
-                        .foregroundStyle(Color(Color("MainColor")))
+                        .foregroundStyle(Color(Color("Accent")))
                     
                     Circle()
                     Text("Tengo sueño")

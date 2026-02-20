@@ -16,7 +16,7 @@ struct IconoNumero3: View {
             .scaledToFit()
             .frame(width:tamaño, height: tamaño)
             .padding(15)
-            .foregroundStyle(Color("MainColor"))
+            .foregroundStyle(Color("Accent"))
             .background(Color.black)
             .mask(Circle())
     }
